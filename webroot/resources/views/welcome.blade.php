@@ -75,15 +75,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Trinity Laravel
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="http://w1tch.iptime.org:8080">JIRA</a>
+                    <a href="http://w1tch.iptime.org:8090">Confluence</a>
+                    <a href="http://30.31.32.2:32400/web">Plex</a>
+                    <a href="http://30.31.32.2">Owncloud</a>
+                    <a href="https://github.com/eeehit">GitHub</a>
                 </div>
             </div>
         </div>
